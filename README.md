@@ -1,2 +1,2 @@
-# Hello--world
-This is for practicing github flow
+# About Me
+I am a student from CRC Sydenham

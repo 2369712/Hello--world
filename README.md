@@ -1,2 +1,2 @@
 # Hello--world
-Thi is for practicing github flow
+This is for practicing github flow

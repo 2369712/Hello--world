@@ -1,2 +1,4 @@
-# Hello--world
-Thi is for practicing github flow
+
+
+# About Me
+I am a student from CRCS
